@@ -1,5 +1,5 @@
 # 1. Title
-[Grand application] Bonsai Exchange
+[Grant application] Bonsai Exchange
 # 2. Project Category
 Development - Developer support and product ideas - wallets, block explorers, dapps, developer documentation, etc.
 # 3. Project Description
